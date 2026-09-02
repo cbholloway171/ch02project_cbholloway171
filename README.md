@@ -1,3 +1,3 @@
-# hello-world
-this is for practicing Github Flow
-I'm Chandler and I love whole milk.
+# ch02project_cbholloway171
+Creating a Web Page.
+I'm Chandler and I love frisbee golf and ultimate frisbee.
