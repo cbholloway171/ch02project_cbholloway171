@@ -1,14 +1,14 @@
-/*
-  Name: Chandler Holloway
-  Date: August 30, 2026
-*/
+/* Chandler Holloway - 09/01/2026 */
+
 h1 {
-  font-family: Arial, sans-serif;
+  font-family: 'Trebuchet MS', sans-serif;
   font-size: 3em;
 }
+
 .sample-class {
-  color: #e11d48;
+  color: #2E8B57;
 }
+
 #footer {
   font-size: 0.9em;
 }
